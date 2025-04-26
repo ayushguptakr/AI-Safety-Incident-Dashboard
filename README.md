@@ -28,25 +28,32 @@ A responsive web application for tracking and managing AI safety incidents, feat
 ### Installation
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/ai-safety-dashboard.git
    cd ai-safety-dashboard
-2. Install dependencies:
+3. Install dependencies:
+4. 
    npm install
 # or
 yarn install
+
 3. Start the development server:
+
 npm start
 # or
 yarn start
 
 4. Open your browser and visit:
+5. 
    http://localhost:3000
 
-Contributing
+### Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
+### License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
