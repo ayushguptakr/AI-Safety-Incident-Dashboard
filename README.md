@@ -42,21 +42,23 @@ A responsive web application for tracking and managing AI safety incidents, feat
 ```bash
 yarn install
 
-3. Start the development server:
+```
+
+3.Start the development server:
 
 ```bash
 npm start
-
+```
 # or
 
 ```bash
 yarn start
-
+```
 4. Open your browser and visit:
    
 ```bash
  http://localhost:3000
-
+```
 ### Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
