@@ -3,6 +3,7 @@
 ![Dashboard Screenshot](./Screenshot.png)
 
 A responsive web application for tracking and managing AI safety incidents, featuring filtering, sorting, and reporting capabilities.
+
 Live Demo : https://ai-safety-incident-dashboard-alpha.vercel.app/
 
 ## Features
